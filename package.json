@@ -6,19 +6,19 @@
   },
   "author": "Kenneth Chung",
   "dependencies": {
-    "babel-core": "^5.4.2",
-    "babel-loader": "^5.0.0",
-    "core-js": "^0.9.9",
-    "immutable": "^3.7.2",
+    "babel-core": "^5.8.22",
+    "babel-loader": "^5.3.2",
+    "core-js": "^1.1.0",
+    "immutable": "^3.7.4",
     "jasmine-core": "^2.3.4",
-    "karma": "^0.12.31",
-    "karma-cli": "0.0.4",
-    "karma-jasmine": "^0.3.5",
-    "karma-phantomjs-launcher": "^0.1.4",
-    "karma-webpack": "^1.5.1",
-    "node-libs-browser": "^0.5.0",
+    "karma": "^0.13.9",
+    "karma-cli": "0.1.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-webpack": "^1.7.0",
+    "node-libs-browser": "^0.5.2",
     "react": "^0.13.3",
     "reflux": "0.2.10",
-    "webpack": "^1.9.5"
+    "webpack": "^1.11.0"
   }
 }
