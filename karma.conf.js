@@ -20,6 +20,7 @@ module.exports = function(config) {
     reporters: [
       'dots',
     ],
+    singleRun: true,
     webpack: {
       module: {
         loaders: [
